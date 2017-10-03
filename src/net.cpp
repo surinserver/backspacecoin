@@ -1229,8 +1229,8 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-    {"goku1.dynu.net", "goku1.dynu.net"},
-    {"goku2.dynu.net", "goku2.dynu.net"},
+    {"192.168.128.254", "192.168.128.4"},
+    {"backspacebar.ddns.net", "backspacebarcoin.ddns.net"},
 
 };
 
